@@ -1,0 +1,5 @@
+Desktop Enviroment default location:
+	/var/lib/AccountsService/users/*username*
+
+List all installed desktop enviroments:
+	/usr/share/xsessions
